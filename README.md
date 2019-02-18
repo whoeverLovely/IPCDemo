@@ -2,4 +2,4 @@
 
 app - server app
 
-app1 - client app
+app2 - client app
